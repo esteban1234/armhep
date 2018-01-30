@@ -64,6 +64,10 @@
       </div>
     </div>
 
+    <div class="boton" style="margin-top: 2%; margin-bottom: 2%; text-align: center;">
+      <a href="vistas/servicios.php"><button type="button" class="btn btn-danger btn-lg">MAS SERVICIOS</button></a>
+    </div>
+
 
 
 
