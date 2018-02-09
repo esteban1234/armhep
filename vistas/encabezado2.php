@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="UTF-8">
-
+	<meta name="google-site-verification" content="jQevSxmRTH-3MLhtGgs_YCEG1y5ugMecsvtoRT8B2II" />
 	<link rel="icon" type="image/png" href="../img/favicon.png" />
 	<title>CONSTRUCTORA ARMHEP</title>
 	 <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"> 
