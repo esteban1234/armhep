@@ -17,6 +17,9 @@
             <a class="select" href="contacto.php">CONTACTO</a>
           </ul>
         </div>
+        <div class="op-menu">
+          <i class="fa fa-bars fa-1x" aria-hidden="true"></i>
+        </div>
       </header>
 
       <div class="cuadro">
@@ -32,24 +35,24 @@
       <div class="container">
         <div class="row">
           <div class="col-md-12">
-            <h1 class="text-center">NUESTROS SERVICIOS</h1>
-            <p class="text-center">Somos una empresa con visión sustentable, gracias a nuestra organización sólida y moderna que nos permite promover el desarrollo del país.</p>
+            <h1 class="text-center tit-ns ">NUESTROS SERVICIOS</h1>
+            <p class="text-center txt-ns">Somos una empresa con visión sustentable, gracias a nuestra organización sólida y moderna que nos permite promover el desarrollo del país.</p>
           </div>
         </div> <br><br>
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 c-bor">
             <img src="../img/puente.png"
             class="center-block img-responsive">
             <h3 class="text-center">Puentes</h3>
             <!-- <p class="text-center">Developer</p> -->
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 c-bor">
             <img src="../img/via.png"
             class="center-block img-responsive">
             <h3 class="text-center">Vias Terrestres</h3>
             <!-- <p class="text-center">Developer</p> -->
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 c-bor">
             <img src="../img/control.png"
             class="center-block img-responsive">
             <h3 class="text-center">Laboratorio de control de calidad</h3>
@@ -57,19 +60,19 @@
           </div>
         </div> <br><br>
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 c-bor">
             <img src="../img/controlh.png"
             class="center-block img-responsive">
             <h3 class="text-center">Obras Hidráulicas</h3>
             <!-- <p class="text-center">Developer</p> -->
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 c-bor">
             <img src="../img/productos.png"
             class="center-block img-responsive">
             <h3 class="text-center">Productos</h3>
             <!-- <p class="text-center">Developer</p> -->
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-4 col-md-4 c-bor">
             <img src="../img/obras.png"
             class="center-block img-responsive">
             <h3 class="text-center">Obras Pesadas</h3>
@@ -77,13 +80,13 @@
           </div>
         </div> <br><br>
         <div class="row">
-          <div class="col-md-4 col-md-offset-2">
+          <div class="col-sm-6 col-md-4 col-md-offset-2 c-bor">
             <img src="../img/edificacion.png"
             class="center-block img-responsive">
             <h3 class="text-center">Urbanización</h3>
             <!-- <p class="text-center">Developer</p> -->
           </div>
-          <div class="col-md-4">
+          <div class="col-sm-6 col-md-4 c-bor">
             <img src="../img/diseno.png"
             class="center-block img-responsive">
             <h3 class="text-center">Diseño</h3>

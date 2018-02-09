@@ -7,6 +7,11 @@
     box-sizing: border-box;
 }
 
+
+.op-menu{
+  display: none;
+}
+
 .header{
     height: 550px;
     background: url('../img/index.jpg') no-repeat;

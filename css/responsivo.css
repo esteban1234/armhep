@@ -1,0 +1,576 @@
+@media screen and (max-width: 480px){
+	/***************DISEÑO INDEX****************/
+
+	.op-menu{
+		cursor: pointer;
+		position: absolute;
+		top: 50px;
+		left: 30px;
+		font-size: 30px;
+		display: block;
+		color: #fff;
+	}
+
+	.logo{
+		float: right !important;
+		margin-right: 40px;
+		width: 15%;
+		background: #fff;
+		padding: 10px;
+	}
+
+	.logo img{
+		width: 100%;
+	}
+
+	.nav{
+		position: fixed;
+		height: 100%;
+		margin: 0px;
+		width: 50%;
+		background: #fff;
+		z-index: 2;
+		display: none;
+	}
+
+	.nav ul{
+		height: 100%;
+		padding: 0px;
+
+	}
+
+	.nav ul a.select{
+ 	 color: #000;
+	}
+
+	.nav ul .select{
+		border-bottom: .5px solid rgba(0,0,0,0.5);
+		display: block;
+		margin: 0px !important;
+		text-align: center;
+	}
+
+	.header, .fondo, .header2, .fondo2, .header3, .fondo3, .header4, .fondo4{
+		/*border: 2px solid red;*/
+		height: 100%;
+	}
+
+	.cuadro{
+		width: 95%;
+		margin-bottom: 20px;
+		/*border: 2px solid red;*/
+	}
+
+	.cuadro p{
+		
+		font-weight: bold;
+		font-size: 16px;
+	}
+	
+	.division p{
+		padding: 0px 7px;
+	}
+
+	.division p b{
+		font-size: 20px;
+		font-weight: bold;
+		text-align: center !important;
+	}
+
+	/*.section{
+		border: 2px solid red;
+	}*/
+
+	.tit-sol{
+		font-size: 22px;
+		font-weight: bold;
+	}
+	
+
+	.delete-br br{
+		display: none;
+	}
+
+	.c-bor{
+		/*border: 2px solid red;*/
+		padding: 15px 0px;
+		border-bottom: .5px solid rgba(0,0,0,0.5);
+	}
+
+	.btn{
+		font-size: 16px !important;
+	}
+
+
+	/***************END DISEÑO INDEX***********/
+
+	/***************DISEÑO NOSOTROS****************/
+	.cuadro2{
+		/*border: 2px solid red;*/
+		width: 95%;
+	}
+
+	.cuadro2 p{
+		text-align: justify;
+		font-size: 18px;
+	}
+
+	
+	.emp{
+		display: none;
+	}
+
+	#circulo{
+		/*border: 2px solid green;*/
+		margin: auto !important;
+		height: 130px;
+  		width: 130px;
+  		font-size: 26px;
+  		padding-top: 45px !important;
+  		display: block;
+	}
+
+	.cir{
+		/*border: 2px solid blue;*/
+		margin: auto !important;
+	}
+
+
+	.txt-mv{
+		text-align: justify;
+		padding: 10px 0px;
+	}
+
+	.txt-v{
+		padding: 10px 0px;
+	}
+	
+
+	.nosotros{
+		height: 150px;
+	}
+
+	/***************END DISEÑO NOSOTROS***********/
+
+	/***************DISEÑO SERVICIOS****************/
+	.tit-ns{
+		font-size: 23px;
+		padding: 10px 0px;
+	}
+
+	.txt-ns{
+		text-align: justify;
+	}
+	/***************END DISEÑO SERVICIOS***********/
+
+	/***************DISEÑO CONTACTO****************/
+	.header-title{
+		/*border: 2px solid red;*/
+		font-size: 25px;
+		padding: 2px 15px;
+	}
+	/***************END DISEÑO CONTACTO***********/
+
+
+	/***************DISEÑO FOOTER****************/
+	footer{
+		height: 100%;
+		padding: 0px;
+	}
+
+	footer p{
+		margin: auto;
+		width: 95%;
+		font-size: 18px;
+		padding: 5px 0px;
+	}
+	/***************END DISEÑO FOOTER***********/
+}
+
+@media screen and (max-width: 599px) and (min-width: 481px) {
+	/***************DISEÑO INDEX****************/
+
+	.op-menu{
+		cursor: pointer;
+		position: absolute;
+		top: 60px;
+		left: 30px;
+		font-size: 30px;
+		display: block;
+		color: #fff;
+	}
+
+	.logo{
+		float: right !important;
+		margin-right: 40px;
+		width: 15%;
+		background: #fff;
+		padding: 10px;
+	}
+
+	.logo img{
+		width: 100%;
+	}
+
+	.nav{
+		position: fixed;
+		height: 100%;
+		margin: 0px;
+		width: 50%;
+		background: #fff;
+		z-index: 2;
+		display: none;
+	}
+
+	.nav ul{
+		height: 100%;
+		padding: 0px;
+
+	}
+
+	.nav ul a.select{
+ 	 color: #000;
+	}
+
+	.nav ul .select{
+		border-bottom: .5px solid rgba(0,0,0,0.5);
+		display: block;
+		margin: 0px !important;
+		text-align: center;
+	}
+
+	.header, .fondo, .header2, .fondo2, .header3, .fondo3, .header4, .fondo4{
+		/*border: 2px solid red;*/
+		height: 100%;
+	}
+
+	.cuadro{
+		width: 95%;
+		margin-bottom: 20px;
+		/*border: 2px solid red;*/
+	}
+
+	.cuadro p{
+		
+		font-weight: bold;
+		font-size: 16px;
+	}
+	
+	.division p{
+		padding: 0px 7px;
+	}
+
+	.division p b{
+		font-size: 20px;
+		font-weight: bold;
+		text-align: center !important;
+	}
+
+	/*.section{
+		border: 2px solid red;
+	}*/
+
+	.tit-sol{
+		font-size: 22px;
+		font-weight: bold;
+	}
+	
+
+	.delete-br br{
+		display: none;
+	}
+
+	.c-bor{
+		/*border: 2px solid red;*/
+		padding: 15px 0px;
+		border-bottom: .5px solid rgba(0,0,0,0.5);
+	}
+
+	.btn{
+		font-size: 16px !important;
+	}
+
+
+	/***************END DISEÑO INDEX***********/
+
+	/***************DISEÑO NOSOTROS****************/
+	.cuadro2{
+		/*border: 2px solid red;*/
+		width: 95%;
+	}
+
+	.cuadro2 p{
+		text-align: justify;
+		font-size: 18px;
+	}
+
+	
+	.emp{
+		display: none;
+	}
+
+	#circulo{
+		/*border: 2px solid green;*/
+		margin: auto !important;
+		height: 130px;
+  		width: 130px;
+  		font-size: 26px;
+  		padding-top: 45px !important;
+  		display: block;
+	}
+
+	.cir{
+		/*border: 2px solid blue;*/
+		margin: auto !important;
+	}
+
+
+	.txt-mv{
+		text-align: justify;
+		padding: 10px 0px;
+	}
+
+	.txt-v{
+		padding: 10px 0px;
+	}
+	
+
+	.nosotros{
+		height: 150px;
+	}
+
+	/***************END DISEÑO NOSOTROS***********/
+
+	/***************DISEÑO SERVICIOS****************/
+	.tit-ns{
+		font-size: 23px;
+		padding: 10px 0px;
+	}
+
+	.txt-ns{
+		text-align: justify;
+	}
+	/***************END DISEÑO SERVICIOS***********/
+
+	/***************DISEÑO CONTACTO****************/
+	.header-title{
+		/*border: 2px solid red;*/
+		font-size: 25px;
+		padding: 2px 15px;
+	}
+	/***************END DISEÑO CONTACTO***********/
+
+
+	/***************DISEÑO FOOTER****************/
+	footer{
+		height: 100%;
+		padding: 0px;
+	}
+
+	footer p{
+		margin: auto;
+		width: 95%;
+		font-size: 18px;
+		padding: 5px 0px;
+	}
+	/***************END DISEÑO FOOTER***********/
+}
+
+@media screen and (max-width: 799px) and (min-width: 600px) {
+		/***************DISEÑO INDEX****************/
+
+	.op-menu{
+		cursor: pointer;
+		position: absolute;
+		top: 100px;
+		left: 30px;
+		font-size: 30px;
+		display: block;
+		color: #fff;
+	}
+
+	.logo{
+		float: right !important;
+		margin-right: 40px;
+		width: 15%;
+		background: #fff;
+		padding: 10px;
+	}
+
+	.logo img{
+		width: 100%;
+	}
+
+	.nav{
+		position: fixed;
+		height: 100%;
+		margin: 0px;
+		width: 50%;
+		background: #fff;
+		z-index: 2;
+		display: none;
+	}
+
+	.nav ul{
+		height: 100%;
+		padding: 0px;
+
+	}
+
+	.nav ul a.select{
+ 	 color: #000;
+	}
+
+	.nav ul .select{
+		border-bottom: .5px solid rgba(0,0,0,0.5);
+		display: block;
+		margin: 0px !important;
+		text-align: center;
+	}
+
+	.header, .fondo, .header2, .fondo2, .header3, .fondo3, .header4, .fondo4{
+		/*border: 2px solid red;*/
+		height: 100%;
+	}
+
+	.cuadro{
+		width: 95%;
+		margin-bottom: 20px;
+		/*border: 2px solid red;*/
+	}
+
+	.cuadro p{
+		
+		font-weight: bold;
+		font-size: 16px;
+	}
+	
+	.division p{
+		padding: 0px 7px;
+	}
+
+	.division p b{
+		font-size: 20px;
+		font-weight: bold;
+		text-align: center !important;
+	}
+
+	/*.section{
+		border: 2px solid red;
+	}*/
+
+	.tit-sol{
+		font-size: 22px;
+		font-weight: bold;
+	}
+	
+
+	.delete-br br{
+		display: none;
+	}
+
+	.c-bor{
+		/*border: 2px solid red;*/
+		padding: 15px 0px;
+		border-bottom: .5px solid rgba(0,0,0,0.5);
+	}
+
+	.btn{
+		font-size: 16px !important;
+	}
+
+
+	/***************END DISEÑO INDEX***********/
+
+	/***************DISEÑO NOSOTROS****************/
+	.cuadro2{
+		/*border: 2px solid red;*/
+		width: 95%;
+	}
+
+	.cuadro2 p{
+		text-align: justify;
+		font-size: 18px;
+	}
+
+	
+	.emp{
+		display: none;
+	}
+
+	#circulo{
+		/*border: 2px solid green;*/
+		margin: auto !important;
+		height: 130px;
+  		width: 130px;
+  		font-size: 26px;
+  		padding-top: 45px !important;
+  		display: block;
+	}
+
+	.cir{
+		/*border: 2px solid blue;*/
+		margin: auto !important;
+	}
+
+
+	.txt-mv{
+		text-align: justify;
+		padding: 10px 0px;
+	}
+
+	.txt-v{
+		padding: 10px 0px;
+	}
+	
+
+	.nosotros{
+		height: 150px;
+	}
+
+	/***************END DISEÑO NOSOTROS***********/
+
+	/***************DISEÑO SERVICIOS****************/
+	.tit-ns{
+		font-size: 23px;
+		padding: 10px 0px;
+	}
+
+	.txt-ns{
+		text-align: justify;
+	}
+	/***************END DISEÑO SERVICIOS***********/
+
+	/***************DISEÑO CONTACTO****************/
+	.header-title{
+		/*border: 2px solid red;*/
+		font-size: 25px;
+		padding: 2px 15px;
+	}
+	/***************END DISEÑO CONTACTO***********/
+
+
+	/***************DISEÑO FOOTER****************/
+	footer{
+		height: 100%;
+		padding: 0px;
+	}
+
+	footer p{
+		margin: auto;
+		width: 95%;
+		font-size: 18px;
+		padding: 5px 0px;
+	}
+	/***************END DISEÑO FOOTER***********/
+}
+
+@media screen and (max-width: 1023px) and (min-width: 800px) {
+	
+}
+
+@media screen and (max-width: 1280px) and (min-width: 1024px) {      /* mac*/
+}
+@media screen and (max-width: 1366px) and (min-width: 1024px) { }
+
+@media screen and (min-width: 1367px) { }

@@ -17,10 +17,13 @@
             <a class="select" href="contacto.php">CONTACTO</a>
           </ul>
         </div>
+        <div class="op-menu">
+          <i class="fa fa-bars fa-1x" aria-hidden="true"></i>
+        </div>
       </header>
 
-      <div class="cuadro2">
-        <p><b>LA EMPRESA</b> <br> Somos una empresa constructora, que ofrece los servicios de planeación y ejecución de obras, así como el arrendamiento y asesoría de maquinaria para la construcción de edificación industrial, infraestructura, urbanización y movimiento de tierras. Constructora ARMHEP; una empresa segura, cuenta con el mejor personal del sector de la construcción. Dando testimonio del compromiso de seguridad para con nuestro personal y clientes.</p>
+      <div class="cuadro2 delete-br">
+        <p><b class="emp">LA EMPRESA</b> <br> Somos una empresa constructora, que ofrece los servicios de planeación y ejecución de obras, así como el arrendamiento y asesoría de maquinaria para la construcción de edificación industrial, infraestructura, urbanización y movimiento de tierras. Constructora ARMHEP; una empresa segura, cuenta con el mejor personal del sector de la construcción. Dando testimonio del compromiso de seguridad para con nuestro personal y clientes.</p>
       </div>
     </div>
   </div>
@@ -29,32 +32,32 @@
       <div class="container">
 
         <div class="row">
-          <div class="col-md-4">
-            <div style="margin-left: 28%; margin-bottom: 2%;">
+          <div class="col-sm-4 col-md-4">
+            <div style="margin-left: 28%; margin-bottom: 2%;" class="cir">
             <div id="circulo">
               MISION
             </div>
             </div>
             <!-- <h3 class="text-center">John Doe</h3> -->
-            <p class="text-center">Ser una empresa líder en su ramo, garantizando una atención eficiente a nuestros clientes, generando mayores dividendos y procurando un mejor bienestar a todo nuestro personal.</p>
+            <p class="text-center txt-mv">Ser una empresa líder en su ramo, garantizando una atención eficiente a nuestros clientes, generando mayores dividendos y procurando un mejor bienestar a todo nuestro personal.</p>
           </div>
-          <div class="col-md-4">
-            <div style="margin-left: 28%; margin-bottom: 2%;">
+          <div class="col-sm-4 col-md-4">
+            <div style="margin-left: 28%; margin-bottom: 2%;" class="cir">
             <div id="circulo">
               VISION
             </div>
             </div>
             <!-- <h3 class="text-center">John Doe</h3> -->
-            <p class="text-center">Ser un grupo constructor líder, en servicios de ingeniería para proyectos, dirección, ejecución y control de obras y equipo pesado, aplicando un sistema de calidad en nuestros procesos apoyados en tecnología de punta, con personal profesionalmente calificado y motivado que proporcione soluciones integrales y oportunas para la satisfacción de nuestros clientes internos y externos.</p>
+            <p class="text-center txt-mv">Ser un grupo constructor líder, en servicios de ingeniería para proyectos, dirección, ejecución y control de obras y equipo pesado, aplicando un sistema de calidad en nuestros procesos apoyados en tecnología de punta, con personal profesionalmente calificado y motivado que proporcione soluciones integrales y oportunas para la satisfacción de nuestros clientes internos y externos.</p>
           </div>
-          <div class="col-md-4">
-            <div style="margin-left: 28%; margin-bottom: 2%;">
+          <div class="col-sm-4 col-md-4">
+            <div style="margin-left: 28%; margin-bottom: 2%;" class="cir">
               <div id="circulo">
                 Valores
               </div>
             </div>
             <!-- <h3 class="text-center">John Doe</h3> -->
-            <p class="text-center"> 
+            <p class="text-center txt-v"> 
               * Responsabilidad <br>
 
                * Integridad <br>

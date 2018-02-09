@@ -17,6 +17,10 @@
             <a class="select" href="vistas/contacto.php">CONTACTO</a>
           </ul>
         </div>
+
+        <div class="op-menu">
+          <i class="fa fa-bars fa-1x" aria-hidden="true"></i>
+        </div>
       </header>
 
       <div class="cuadro">
@@ -34,27 +38,27 @@
   </div>
 
   <div class="section" style="padding: 5% 0%;">
-      <div class="container">
+      <div class="container delete-br">
         <div class="row">
           <div class="col-md-12">
-            <h1 class="text-center">SOLUCIONES</h1>
+            <h1 class="text-center tit-sol">SOLUCIONES</h1>
             <!-- <p class="text-center">We are a group of skilled individuals.</p> -->
           </div>
         </div> <br><br>
         <div class="row">
-          <div class="col-md-4">
+          <div class="col-xs-12 col-sm-4 col-md-4 c-bor">
             <img src="img/edificacion.png"
             class="center-block img-responsive">
             <h3 class="text-center">Edificación</h3>
             <!-- <p class="text-center">Developer</p> -->
           </div>
-          <div class="col-md-4">
+          <div class="col-xs-12 col-sm-4 col-md-4 c-bor">
             <img src="img/via.png"
             class="center-block img-responsive">
             <h3 class="text-center">Vias Terrestres</h3>
             <!-- <p class="text-center">Developer</p> -->
           </div>
-          <div class="col-md-4">
+          <div class="col-xs-12 col-sm-4 col-md-4 c-bor">
             <img src="img/obras.png"
             class="center-block img-responsive">
             <h3 class="text-center">Obras Pesadas</h3>
